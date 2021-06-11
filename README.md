@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Faruk from Istanbul / Turkey</h1>
+
+<h2 align="center">Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev</h2>
+
+- 🌱 I’m currently learning: **Unity, C#**
+- 📫 How to reach me: **faruk-cesur@hotmail.com**
+
+### Connect with me:
+
 
 <!--
 **faruk-cesur/faruk-cesur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
