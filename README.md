@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faruk CESUR from Istanbul / Turkey</h1>
 <h2 align="center">Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev</h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-cesur&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-cesur&show_icons=true&theme=radical)
+
+
 
 ---
 ## 👨🏻‍💻 I’m currently learning
 
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
 ![Unity](https://i.ibb.co/qCnfWw9/Background-1.png)
-
 
 
 ## ✉️ How to contact me
