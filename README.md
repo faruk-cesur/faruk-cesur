@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋🏻, I'm Faruk CESUR from Istanbul / Turkey</h1>
-<h2 align="center">Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev</h2>
+<h1 align="center">Hi 👋🏻, I'm Faruk CESUR from Istanbul / Turkey
+<h3 align="center">Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev
 
 
 
 
 
----
+----
+  
 ## 👨🏻‍💻 I’m currently learning
 
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
