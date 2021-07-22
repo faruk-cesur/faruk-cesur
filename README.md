@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk-cesur" alt="faruk-cesur" /> </p>
 <h1 align="center">Hi 👋🏻, I'm Faruk CESUR from Istanbul / Turkey
 <h3 align="center">Game Development Student of Mobile Game Bootcamp V by Patika.dev & Kodluyoruz
 
