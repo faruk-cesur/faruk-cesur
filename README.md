@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk-cesur" alt="faruk-cesur" /> </p>
-<h1 align="center">Hi 👋🏻, I'm Faruk CESUR from Istanbul / Turkey
+<h1 align="center">Hi 👋, I'm Faruk CESUR from Istanbul / Turkey
 <h2 align="center">Game Developer
   
-## 👨🏻‍💻 Technologies
+## 👨‍💻 Technologies
 
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
 ![Unity](https://i.ibb.co/qCnfWw9/Background-1.png)
