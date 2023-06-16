@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk-cesur" alt="faruk-cesur" /> </p>
-<h1 align="center">Hi 👋, I'm Faruk CESUR from Istanbul / Turkey
+<h1 align="center">Hi 👋, I'm Faruk Cesur from Istanbul / Turkey
 <h2 align="center">Game Developer
   
 ## 👨‍💻 Technologies
@@ -15,15 +15,13 @@
 
 [![LinkedIn](https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png) Faruk Cesur](https://www.linkedin.com/in/faruk-cesur/)
 
-[![Discord](https://i.ibb.co/LY0rmr5/dc.png) Faruk CESUR#4527](https://discordapp.com/users/740301788015755304/)
+[![Discord](https://i.ibb.co/LY0rmr5/dc.png) farukcesur](https://discordapp.com/users/740301788015755304/)
 
 ## 📷 Social Media
 
 [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Faruk Cesur](https://www.instagram.com/farukces/)
 
 [![Facebook](https://i.ibb.co/QC9Vp8M/fb.png) Faruk Cesur](https://www.facebook.com/farukces/)
-
-[![Spotify](https://i.ibb.co/cJ3yB7P/spot.png) Faruk Cesur](https://open.spotify.com/user/11132803815)
 
 [![Steam](https://i.ibb.co/M7cTNVL/iconfinder-4177739-games-gaming-steam-icon-32px.png) IronicaS](https://steamcommunity.com/id/IronicaS/)
 
