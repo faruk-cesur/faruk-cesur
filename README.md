@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk-cesur" alt="faruk-cesur" /> </p>
 <h1 align="center">Hi 👋, I'm Faruk Cesur from Istanbul / Turkey
-<h2 align="center">Game Developer
+<h2 align="center">Software Developer
   
-## 👨‍💻 Technologies
+## 👨🏻‍💻 Technologies
 
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
 ![Unity](https://i.ibb.co/qCnfWw9/Background-1.png)
@@ -20,18 +20,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-cesur&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-cesur&show_icons=true&theme=radical)
-
-<!--
-**faruk-cesur/faruk-cesur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
