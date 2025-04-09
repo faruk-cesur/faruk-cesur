@@ -27,50 +27,74 @@ Hi, I'm **Faruk Cesur**, an Android Developer from Istanbul. I'm constantly impr
 
 <p align="left">
   <!-- Kotlin -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title="Kotlin" width="60"/>
 
   <!-- Android Studio -->
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Studio" width="60"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="Android Studio" width="60"/>
 
   <!-- Jetpack Compose -->
-  <img src="http://bit.ly/42Cpl9F" alt="Jetpack Compose" width="60"/>
+  <img src="http://bit.ly/42Cpl9F" title="Jetpack Compose" width="60"/>
 
   <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="60"/>
 
   <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="60"/>
 
   <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="60"/>
+
+  <!-- ChatGPT -->
+  <img src="https://i.imgur.com/23TWPgG.png" title="ChatGPT" width="60"/>
 
   <!-- C# -->
-  <img src="https://i.ibb.co/fQHDQRp/Background.png" alt="C#" width="60"/>
+  <img src="https://i.ibb.co/fQHDQRp/Background.png" title="C#" width="60"/>
 
   <!-- Unity -->
-  <img src="https://i.ibb.co/qCnfWw9/Background-1.png" alt="Unity" width="60"/>
+  <img src="https://i.ibb.co/qCnfWw9/Background-1.png" title="Unity" width="60"/>
 </p>
 
 ---
 
 ## ✉️ Contact Me
 
-<p align="left">
-  <a href="mailto:faruk-cesur@hotmail.com">
-    <img src="https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png" alt="Mail" width="30"/>
-    faruk-cesur@hotmail.com
-  </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/faruk-cesur/">
-    <img src="https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png" alt="LinkedIn" width="30"/>
-    LinkedIn: Faruk Cesur
-  </a>
-  <br/>
-  <a href="https://discordapp.com/users/740301788015755304/">
-    <img src="https://i.ibb.co/LY0rmr5/dc.png" alt="Discord" width="30"/>
-    Discord: farukcesur
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png" width="30">
+    </td>
+    <td>
+      <a href="mailto:faruk-cesur@hotmail.com">faruk-cesur@hotmail.com</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"></td></tr>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png" width="30">
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/faruk-cesur/">LinkedIn: Faruk Cesur</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"></td></tr>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://i.ibb.co/LY0rmr5/dc.png" width="30">
+    </td>
+    <td>
+      <a href="https://discordapp.com/users/740301788015755304/">Discord: farukcesur</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"></td></tr>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://www.freeiconspng.com/uploads/website-icon-18.png" width="30">
+    </td>
+    <td>
+      <a href="https://faruk-cesur.github.io/" target="_blank">Website: faruk-cesur.github.io</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
