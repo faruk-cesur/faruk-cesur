@@ -7,19 +7,24 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Faruk Cesur**, an Android Developer from Istanbul. I'm constantly improving myself by focusing on developing modern, clean, and sustainable mobile applications.
+👋 I’m **Faruk Cesur**, an **Android Developer** based in **Istanbul** with a strong passion for mobile application development. 
 
-🎯 I'm working on the following areas to reach my goals:
-- Best practices in **Kotlin** programming  
-- Modern, declarative UI development with **Jetpack Compose**  
-- **MVVM architecture**, **Repository pattern**, and clean architecture principles  
-- **Firebase** for real-time data management, authentication, and analytics  
-- **Dependency Injection** with Hilt  
-- **Version control** and collaborative development using Git & GitHub  
+🔄 I started my professional career in **accounting and HR** in 2017, but my true interest in **technology** led me to shift towards **software development**. After gaining 2 years of experience in **game development** using **C# and Unity**, I am now focusing on **Android development** with **Kotlin**.
 
-📱 I strongly believe in writing **scalable and readable code**. I'm continuously improving myself by working on real-world projects and keeping up with the latest trends in Android development.
+### My Current Focus:
+- 📚 Currently enrolled in the **Computer Programming program** at **Atatürk University**.
+- 💡 Constantly working to improve my **programming skills**.
+- 🛠️ **Developing impactful Android applications** that solve real-world problems.
 
-🚀 My goal is to **join a passionate team** where I can keep learning and growing, ultimately becoming a better developer every day.
+### What I Believe In:
+- 🧑‍💻 **Clean code**, **efficient workflows**, and **effective teamwork**.
+- 💬 I enjoy collaborating and coming up with **innovative solutions**.
+- 📈 **Continuous learning**, staying up-to-date with **latest technologies**.
+
+### My Goal:
+- 🎯 To succeed both individually and as part of a team.
+- 💬 To bring value to projects with my **technical skills** and **communication abilities**.
+- 🚀 **Team-oriented**, **solution-focused**, and **determined** to add value in every project.
 
 ---
 
