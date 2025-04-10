@@ -46,6 +46,9 @@ Hi, I'm **Faruk Cesur**, an Android Developer from Istanbul. I'm constantly impr
 
   <!-- ChatGPT -->
   <img src="https://i.imgur.com/23TWPgG.png" title="ChatGPT" width="60"/>
+  
+  <!-- HTML-CSS-JS -->
+  <img src="https://i.imgur.com/6tbYI2H.png" title="HTML-CSS-JS" width="60" />
 
   <!-- C# -->
   <img src="https://i.ibb.co/fQHDQRp/Background.png" title="C#" width="60"/>
