@@ -45,12 +45,6 @@
 
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="60"/>
-
-  <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="60"/>
-
-  <!-- ChatGPT -->
-  <img src="https://i.imgur.com/23TWPgG.png" title="ChatGPT" width="60"/>
   
   <!-- HTML-CSS-JS -->
   <img src="https://i.imgur.com/6tbYI2H.png" title="HTML-CSS-JS" width="60" />
