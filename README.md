@@ -32,28 +32,49 @@
 
 <p align="left">
   <!-- Kotlin -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title="Kotlin" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/kotlin-icon.png" title="Kotlin" width="60" height="60"/>
 
   <!-- Android Studio -->
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="Android Studio" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/android-studio-icon.png" title="Android Studio" width="60" height="60"/>
 
   <!-- Jetpack Compose -->
-  <img src="http://bit.ly/42Cpl9F" title="Jetpack Compose" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/jetpack-compose-icon.png" title="Jetpack Compose" width="60" height="60"/>
+
+  <!-- XML -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/XML.png" title="XML" width="60" height="60"/>
 
   <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Firebase.svg" title="Firebase" width="60" height="60"/>
+
+  <!-- Room Database -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/room-database-icon.png" title="Room Database" width="60" height="60"/>
+
+  <!-- Retrofit -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/retrofit.png" title="Retrofit" width="60" height="60"/>
+
+  <!-- MVVM -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/mvvm.png" title="MVVM" width="60" height="60"/>
+
+  <!-- Hilt -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Hilt.png" title="Hilt" width="60" height="60"/>
+
+  <!-- SQLite -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/SQLite.jpg" title="SQLite" width="60" height="60"/>
+
+  <!-- Glide -->
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Glide.png" title="Glide" width="60" height="60"/>
 
   <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Git.svg" title="Git" width="60" height="60"/>
   
   <!-- HTML-CSS-JS -->
-  <img src="https://i.imgur.com/6tbYI2H.png" title="HTML-CSS-JS" width="60" />
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/html-css-js.png" title="HTML-CSS-JS" width="60" height="60"/>
 
   <!-- C# -->
-  <img src="https://i.ibb.co/fQHDQRp/Background.png" title="C#" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Csharp.png" title="C#" width="60" height="60"/>
 
   <!-- Unity -->
-  <img src="https://i.ibb.co/qCnfWw9/Background-1.png" title="Unity" width="60"/>
+  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Unity.png" title="Unity" width="60" height="60"/>
 </p>
 
 ---
@@ -63,7 +84,7 @@
 <table>
   <tr>
     <td align="left" valign="middle">
-      <img src="https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png" width="30">
+      <img src="https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png" width="30" height="30">
     </td>
     <td>
       <a href="mailto:faruk-cesur@hotmail.com">faruk-cesur@hotmail.com</a>
@@ -72,7 +93,7 @@
   <tr><td colspan="2"></td></tr>
   <tr>
     <td align="left" valign="middle">
-      <img src="https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png" width="30">
+      <img src="https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png" width="30" height="30">
     </td>
     <td>
       <a href="https://www.linkedin.com/in/faruk-cesur/">LinkedIn: Faruk Cesur</a>
@@ -81,7 +102,7 @@
   <tr><td colspan="2"></td></tr>
   <tr>
     <td align="left" valign="middle">
-      <img src="https://i.ibb.co/LY0rmr5/dc.png" width="30">
+      <img src="https://i.ibb.co/LY0rmr5/dc.png" width="30" height="30">
     </td>
     <td>
       <a href="https://discordapp.com/users/740301788015755304/">Discord: farukcesur</a>
@@ -90,7 +111,7 @@
   <tr><td colspan="2"></td></tr>
   <tr>
     <td align="left" valign="middle">
-      <img src="https://www.freeiconspng.com/uploads/website-icon-18.png" width="30">
+      <img src="https://www.freeiconspng.com/uploads/website-icon-18.png" width="30" height="30">
     </td>
     <td>
       <a href="https://faruk-cesur.github.io/" target="_blank">Website: faruk-cesur.github.io</a>
