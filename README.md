@@ -1,129 +1,74 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk-cesur" alt="faruk-cesur" /> </p>
-
 <h1 align="center">Hi 👋, I'm Faruk Cesur</h1>
-<h3 align="center">💻 Android Developer | 🎯 Goal-Oriented Learner | 🌱 Passionate About Clean Code</h3>
+<h3 align="center">⚙️ Business Process & Automation Specialist | 🤖 AI-Driven Solutions & Data Workflows</h3>
+
+<p align="center">
+  <em>Bridging the gap between complex operational business logic and scalable software automation.</em>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-👋 I’m **Faruk Cesur**, an **Android Developer** based in **Istanbul** with a strong passion for mobile application development. 
+I am a **Process and Automation Specialist** based in Istanbul, focused on transforming manual, repetitive, and time-consuming business workflows into seamless, error-free, and automated digital systems. 
 
-🔄 I started my professional career in **accounting and HR** in 2017, but my true interest in **technology** led me to shift towards **software development**. After gaining 2 years of experience in **game development** using **C# and Unity**, I am now focusing on **Android development** with **Kotlin**.
+By combining **4 years of financial/accounting domain expertise** with **software engineering principles** (Computer Programming background and 2 years in Game Development), I design custom automations that reduce days of manual calculation and reconciliation into minutes.
 
-### My Current Focus:
-- 📚 Currently enrolled in the **Computer Programming program** at **Atatürk University**.
-- 💡 Constantly working to improve my **programming skills**.
-- 🛠️ **Developing impactful Android applications** that solve real-world problems.
-
-### What I Believe In:
-- 🧑‍💻 **Clean code**, **efficient workflows**, and **effective teamwork**.
-- 💬 I enjoy collaborating and coming up with **innovative solutions**.
-- 📈 **Continuous learning**, staying up-to-date with **latest technologies**.
-
-### My Goal:
-- 🎯 To succeed both individually and as part of a team.
-- 💬 To bring value to projects with my **technical skills** and **communication abilities**.
-- 🚀 **Team-oriented**, **solution-focused**, and **determined** to add value in every project.
+- 💼 **Current Role:** Business Process & Automation Specialist at **Smart Servis Bilgi Teknolojileri A.Ş.**
+- 🎓 **Education:** Atatürk University – Computer Programming (Class of 2026).
+- 🧠 **Core Philosophy:** "Identify the bottleneck, structure the data, and deploy reliable automation."
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Focus Areas & What I Do
 
+- **🤖 AI-Integrated Process Automation:** Implementing targeted prompt architectures, AI agents, and automated pipeline scripts to handle edge-case workflows.
+- **📊 Financial & Marketplace Reconciliation:** Building automated matching engines for high-volume marketplace payouts (commission audits, order-level matching, discrepancy reporting).
+- **📈 Advanced Spreadsheet Architecture:** Developing enterprise-grade tools with **Google Apps Script**, **Python**, and **Advanced Excel/VBA** for data extraction, cleanup, and synchronization.
+- **⚡ Algorithmic Problem Solving:** Applying structured logic and architecture learned from software and game engineering directly to enterprise operations.
+
+---
+
+## 🛠️ Technical Stack & Tools
+
+### Languages & Scripting
 <p align="left">
-  <!-- Kotlin -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/kotlin-icon.png" title="Kotlin" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Apps Script" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
 
-  <!-- Android Studio -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/android-studio-icon.png" title="Android Studio" width="60" height="60"/>
-
-  <!-- Jetpack Compose -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/jetpack-compose-icon.png" title="Jetpack Compose" width="60" height="60"/>
-
-  <!-- XML -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/XML.png" title="XML" width="60" height="60"/>
-
-  <!-- Firebase -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Firebase.svg" title="Firebase" width="60" height="60"/>
-
-  <!-- Room Database -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/room-database-icon.png" title="Room Database" width="60" height="60"/>
-
-  <!-- Retrofit -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/retrofit.png" title="Retrofit" width="60" height="60"/>
-
-  <!-- MVVM -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/mvvm.png" title="MVVM" width="60" height="60"/>
-
-  <!-- Hilt -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Hilt.png" title="Hilt" width="60" height="60"/>
-
-  <!-- SQLite -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/SQLite.jpg" title="SQLite" width="60" height="60"/>
-
-  <!-- Glide -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Glide.png" title="Glide" width="60" height="60"/>
-
-  <!-- Git -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Git.svg" title="Git" width="60" height="60"/>
-  
-  <!-- HTML-CSS-JS -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/html-css-js.png" title="HTML-CSS-JS" width="60" height="60"/>
-
-  <!-- C# -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Csharp.png" title="C#" width="60" height="60"/>
-
-  <!-- Unity -->
-  <img src="https://github.com/faruk-cesur/faruk-cesur.github.io/blob/main/Images/Unity.png" title="Unity" width="60" height="60"/>
+### Operations, Data & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel%20(VBA)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 ---
 
-## ✉️ Contact Me
+## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png" width="30" height="30">
-    </td>
-    <td>
-      <a href="mailto:faruk-cesur@hotmail.com">faruk-cesur@hotmail.com</a>
-    </td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png" width="30" height="30">
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/faruk-cesur/">LinkedIn: Faruk Cesur</a>
-    </td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://i.ibb.co/LY0rmr5/dc.png" width="30" height="30">
-    </td>
-    <td>
-      <a href="https://discordapp.com/users/740301788015755304/">Discord: farukcesur</a>
-    </td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://www.freeiconspng.com/uploads/website-icon-18.png" width="30" height="30">
-    </td>
-    <td>
-      <a href="https://faruk-cesur.github.io/" target="_blank">Website: faruk-cesur.github.io</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faruk-cesur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faruk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-cesur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-<!--
-## 📊 GitHub Stats
+## 📬 Connect With Me
 
-![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faruk-cesur&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-cesur&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+<p align="left">
+  <a href="https://faruk-cesur.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-faruk--cesur.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/faruk-cesur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Faruk_Cesur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:faruk-cesur@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-faruk--cesur@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
